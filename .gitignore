@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# User Database (IMPORTANT: Never commit this!)
+users.db
+
+# Generated Output Files
+outputs/
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store

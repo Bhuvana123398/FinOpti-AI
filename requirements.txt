@@ -1,0 +1,14 @@
+bcrypt
+matplotlib
+numpy<2.0
+openpyxl
+pandas
+plotly
+reportlab
+scikit-learn
+scipy
+statsmodels
+streamlit
+streamlit-option-menu
+pmdarima
+pyarrow==16.1.0
