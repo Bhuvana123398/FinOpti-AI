@@ -4,11 +4,9 @@ numpy
 openpyxl
 pandas
 plotly
-reportlab
 scikit-learn
 scipy
 statsmodels
 streamlit
 streamlit-option-menu
 pmdarima
-pyarrow
